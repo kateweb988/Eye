@@ -1,0 +1,27 @@
+<svg width="100" height="116" viewBox="0 0 100 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_14438_11512)">
+<rect width="100" height="100" rx="50" fill="white"/>
+<rect x="0.5" y="0.5" width="99" height="99" rx="49.5" stroke="#050A11" stroke-opacity="0.05"/>
+<path d="M35 50C35 51.9698 35.388 53.9204 36.1418 55.7403C36.8956 57.5601 38.0005 59.2137 39.3934 60.6066C40.7863 61.9995 42.4399 63.1044 44.2597 63.8582C46.0796 64.612 48.0302 65 50 65C51.9698 65 53.9204 64.612 55.7403 63.8582C57.5601 63.1044 59.2137 61.9995 60.6066 60.6066C61.9995 59.2137 63.1044 57.5601 63.8582 55.7403C64.612 53.9204 65 51.9698 65 50C65 48.0302 64.612 46.0796 63.8582 44.2597C63.1044 42.4399 61.9995 40.7863 60.6066 39.3934C59.2137 38.0005 57.5601 36.8956 55.7403 36.1418C53.9204 35.388 51.9698 35 50 35C48.0302 35 46.0796 35.388 44.2597 36.1418C42.4399 36.8956 40.7863 38.0005 39.3934 39.3934C38.0005 40.7863 36.8956 42.4399 36.1418 44.2597C35.388 46.0796 35 48.0302 35 50Z" stroke="url(#paint0_angular_14438_11512)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="44" cy="50" r="1" fill="#FFB800"/>
+<circle cx="50" cy="50" r="1" fill="#FFB800"/>
+<circle cx="56" cy="50" r="1" fill="#FFB800"/>
+</g>
+<defs>
+<filter id="filter0_d_14438_11512" x="0" y="0" width="100" height="115.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="26" operator="erode" in="SourceAlpha" result="effect1_dropShadow_14438_11512"/>
+<feOffset dy="19"/>
+<feGaussianBlur stdDeviation="11.2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0196078 0 0 0 0 0.0392157 0 0 0 0 0.0666667 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_14438_11512"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_14438_11512" result="shape"/>
+</filter>
+<radialGradient id="paint0_angular_14438_11512" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50 50) rotate(-90) scale(16.5)">
+<stop stop-color="#FFB800"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+</defs>
+</svg>
